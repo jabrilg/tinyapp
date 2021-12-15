@@ -10,7 +10,7 @@ TinyApp is a full stack web application built with Node and Express that allows 
 
 !["Screenshot of MyURLS PAGE"] (https://github.com/jabrilg/tinyapp/tree/main/docs#:~:text=16%20minutes%20ago-,urls%3Apng.png,-updated%20tinyapp)
 
-ye
+
 ## Dependencies
 
 - Node.js
