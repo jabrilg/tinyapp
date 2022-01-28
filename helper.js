@@ -6,7 +6,7 @@ const getUserByEmail = function (email, users) {
       }
     }
     return undefined
-  };
+  }
   
   
   
